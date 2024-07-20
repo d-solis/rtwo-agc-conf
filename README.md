@@ -6,7 +6,7 @@
 All Versions of RTWO are supported as they have the same camera layout
 
  - Latest APK: [AGC9.2.14_V11.0](https://www.celsoazevedo.com/files/android/google-camera/dev-BigKaka/f/dl70/)
- - Config: [Latest Relaese](https://github.com/d-solis/rtwo-agc-conf/releases/latest/)
+ - Config: [Latest Release](https://github.com/d-solis/rtwo-agc-conf/releases/latest/)
 
 <h2 align="left">Gallery
 </h2> 
