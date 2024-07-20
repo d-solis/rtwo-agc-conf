@@ -13,6 +13,12 @@ All Versions of RTWO are supported.
 
  - TBA
 
+
+<h2 align="left">Known Bugs
+</h2> 
+
+ - HDR Enhanced causes crashes no matter selected lens (temp fix: just use hdrnet)
+
 <h2 align="left">Credits
 </h2> 
 
