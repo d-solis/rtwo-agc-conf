@@ -16,7 +16,7 @@ All Versions of RTWO are supported as they have the same camera layout
 **Credits:**
  - Jason W (Color Profiles)
  - The creator of Thinkphone.agc (No name/username was given)
- - GSMARENA (helping find phone with similar sensors)
+ - GSMARENA (helping find devices with similar sensors)
  - Me (Tweaking noise models of the ultrawide, telephoto, and frontfacing camera manually, tweaking libraries, curves, and lenses)
 
 ![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/cat.svg)
