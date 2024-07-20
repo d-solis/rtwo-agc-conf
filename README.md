@@ -11,13 +11,16 @@ All Versions of RTWO are supported.
 <h2 align="left">Gallery
 </h2> 
 
- - TBA
+ - Courtesy of @Doge on telegram ![Untitled](https://github.com/user-attachments/assets/d18e837e-962c-4e11-99f6-f744a941c126)
+
 
 
 <h2 align="left">Known Bugs
 </h2> 
 
  - HDR Enhanced causes crashes no matter selected lens (temp fix: just use hdrnet)
+ - Enabling Auto Lens selection causes crash
+ - Slow-Mo just doesnt work | GCAM on rtwo related issue
 
 <h2 align="left">Credits
 </h2> 
