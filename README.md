@@ -13,7 +13,9 @@ All Versions of RTWO are supported as they have the same camera layout
 
  - TBA
 
-**Credits:**
+<h2 align="left">Credits
+</h2> 
+
  - Jason W (Color Profiles)
  - The creator of Thinkphone.agc (No name/username was given)
  - GSMARENA (helping find devices with similar sensors)
