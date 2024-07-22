@@ -30,7 +30,7 @@ All Versions of RTWO are supported.
     <td align="center">
       <img src="img/image1.jpg" alt="Image 1" />
       <br />
-      <em>**Image 1 Caption**</em>
+      <em>@Doge | rtwo3 | 1.0</em>
     </td>
   </tr>
 </table>
@@ -39,17 +39,7 @@ All Versions of RTWO are supported.
     <td align="center">
       <img src="img/image2.jpg" alt="Image 2" />
       <br />
-      <em>**Image 2 Caption**</em>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="img/stock3.jpg" alt="Stock 3" />
-      <img src="img/image3.jpg" alt="Image 3" />
-      <br />
-      <em>**Image 3 Caption**</em>
+      <em>@d-solis | rtwo3.1 | 1.0</em>
     </td>
   </tr>
 </table>
@@ -58,7 +48,7 @@ All Versions of RTWO are supported.
     <td align="center">
       <img src="img/image4.jpg" alt="Image 4" />
       <br />
-      <em>**Image 4 Caption**</em>
+      <em>@CanDroid | rtwo.3.1 | 1.0</em>
     </td>
   </tr>
 </table>
