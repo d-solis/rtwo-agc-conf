@@ -25,6 +25,8 @@ All Versions of RTWO are supported.
 
 <h2>Gallery</h2>
 
+ - Actual image quality is better than what is presented here due to telegram compression.
+
 <table align="center">
   <tr>
     <td align="center">
