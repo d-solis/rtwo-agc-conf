@@ -37,18 +37,18 @@ All Versions of RTWO are supported.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="img/image2.jpg" alt="Image 2" />
+      <img src="img/image4.jpg" alt="Image 4" />
       <br />
-      <em>@d-solis | rtwo3.1 | 1.0</em>
+      <em>@CanDroid | rtwo.3.1 | 1.0</em>
     </td>
   </tr>
 </table>
 <table align="center">
   <tr>
     <td align="center">
-      <img src="img/image4.jpg" alt="Image 4" />
+      <img src="img/image2.jpg" alt="Image 2" />
       <br />
-      <em>@CanDroid | rtwo.3.1 | 1.0</em>
+      <em>@d-solis | rtwo3.1 | 1.0</em>
     </td>
   </tr>
 </table>
