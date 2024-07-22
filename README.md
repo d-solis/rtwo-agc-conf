@@ -30,6 +30,8 @@
     <li>Me (Tweaking noise models of the ultrawide, telephoto, and frontfacing camera manually, tweaking libraries, curves, and lenses)</li>
   </ul>
 
+  <h2 align="left">Gallery</h2>
+  
   <div class="gallery">
   <figure>
     <figcaption style="text-align: center;">Image 2 Caption</figcaption>
