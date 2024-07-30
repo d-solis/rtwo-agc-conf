@@ -7,14 +7,12 @@ All Versions of RTWO are supported.
 
 <h2>Latest Release</h2>
 
-* [Latest APK: AGC9.2.14_V12.0](https://www.celsoazevedo.com/files/android/google-camera/dev-BigKaka/f/dl72/)
+* [Latest APK: [AGC9.1.24_V15.0](https://www.celsoazevedo.com/files/android/google-camera/dev-BigKaka/f/dl62/)
 * [Config: Latest Release](https://github.com/d-solis/rtwo-agc-conf/releases/latest/)
 
 <h2>Known Bugs</h2>
 
-* HDR Enhanced causes crashes no matter selected lens (temp fix: just use hdrnet)
 * Enabling Auto Lens selection causes crash
-* Slow-Mo just doesnt work | GCAM on rtwo related issue
 
 <h2>Credits</h2>
 
